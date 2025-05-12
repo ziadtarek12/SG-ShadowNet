@@ -1,0 +1,7 @@
+README.md
+setup.py
+sg_shadownet.egg-info/PKG-INFO
+sg_shadownet.egg-info/SOURCES.txt
+sg_shadownet.egg-info/dependency_links.txt
+sg_shadownet.egg-info/requires.txt
+sg_shadownet.egg-info/top_level.txt
